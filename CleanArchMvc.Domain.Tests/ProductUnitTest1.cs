@@ -1,6 +1,7 @@
 ﻿using CleanArchMvc.Domain.Entities;
 using CleanArchMvc.Domain.Validation;
 using FluentAssertions;
+using System.Data;
 
 namespace CleanArchMvc.Domain.Tests
 {
@@ -91,6 +92,24 @@ namespace CleanArchMvc.Domain.Tests
             action.Should()
                 .Throw<DomainExceptionValidation>()
                 .WithMessage("Invalid image, too long, maximum 250 characters");
+
+        }
+
+        [Fact]
+        public void CreateProduct_WithNullImageValue_NoDomainException()
+        {
+            Action action = () => new Product(1, "Product Name", "Product Description", 99.99m, 1, null);
+            action.Should()
+                .NotThrow<DomainExceptionValidation>();
+
+        }
+
+        [Fact]
+        public void CreateProduct_WithNullImageValue_NoNullReferenceException()
+        {
+            Action action = () => new Product(1, "Product Name", "Product Description", 99.99m, 1, null);
+            action.Should()
+                .NotThrow<NullReferenceException>();
 
         }
     }
