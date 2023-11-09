@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ljmYMGEgVXUSVJITqythHU17b9+0SBoFvaP9+ROymQAo90gD+s9Q9qTJRmTaWsg0zqKbY9QRgvb4hzoFh7g/1g==",
+  "dgSpecHash": "COlY7FfdCXycUEQTpOa9n+N0XsBVudZr7SeFSiOg1h37YQ+oukqGklcjlF7+VrLQ5XbcjOg+PDmRfYtYXxujUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\E470\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\E470\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\E470\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\E470\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\E470\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
