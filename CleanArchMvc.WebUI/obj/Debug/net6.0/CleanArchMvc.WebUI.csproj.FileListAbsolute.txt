@@ -405,3 +405,5 @@ C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\refi
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.pdb
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.genruntimeconfig.cache
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\ref\CleanArchMvc.WebUI.dll
+C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.dll
+C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.Contracts.dll

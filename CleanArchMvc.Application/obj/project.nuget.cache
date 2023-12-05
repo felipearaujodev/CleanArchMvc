@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "QBLYT+A4RCg22fGXuAnklTS6qBJY5Le1DMvPhxXQsUoh1ztrZtSzw8YSNY+zARmgZkkFT67Tzq8YtAgOz1UGaQ==",
+  "dgSpecHash": "qsLoBtbLx/OeIguolVVW2fpAimLJ/zLFT+FtoWpOEZptFXD4UpbvNwEPITUnRoFZdl9BsrChzCDwRmGkbE8kBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\E470\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\E470\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\E470\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\E470\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\E470\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\E470\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

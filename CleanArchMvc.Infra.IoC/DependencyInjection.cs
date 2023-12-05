@@ -32,6 +32,9 @@ namespace CleanArchMvc.Infra.IoC
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<ICategoryService, CategoryService>();
 
+            var myHandlers = AppDomain.CurrentDomain.Load("CleanArchMvc.Application");
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(myHandlers));
+
             return services;
         }
     }
