@@ -22,8 +22,6 @@ C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -108,8 +106,6 @@ C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
-C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
@@ -407,3 +403,8 @@ C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\Clea
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\ref\CleanArchMvc.WebUI.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.dll
 C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\E470\source\repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

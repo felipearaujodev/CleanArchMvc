@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\No_image_available.png"
     },
     {
+      "Id": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\catalog.png",
+      "PackagePath": "staticwebassets\\images\\catalog.png"
+    },
+    {
       "Id": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
