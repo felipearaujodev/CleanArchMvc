@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lWJVbold8B4hbE3uBL0k+48nOH6mRCgSpSQsxVV49NE=",
+  "Hash": "qEZo5NpZZKv02NOLoMh5sCxiNC4OxHYnKlEeZHxkioA=",
   "Source": "CleanArchMvc.WebUI",
   "BasePath": "_content/CleanArchMvc.WebUI",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\No_image_available.png",
+      "SourceId": "CleanArchMvc.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\",
+      "BasePath": "_content/CleanArchMvc.WebUI",
+      "RelativePath": "images/No_image_available.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\No_image_available.png"
     },
     {
       "Identity": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\js\\site.js",

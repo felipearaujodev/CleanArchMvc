@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\No_image_available.png",
+      "PackagePath": "staticwebassets\\images\\No_image_available.png"
+    },
+    {
       "Id": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

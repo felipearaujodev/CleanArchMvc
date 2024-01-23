@@ -50,6 +50,6 @@ namespace CleanArchMvc.Domain.Entities
             CategoryId = categoryId;
         }
         public int CategoryId { get; set; }
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
     }
 }
