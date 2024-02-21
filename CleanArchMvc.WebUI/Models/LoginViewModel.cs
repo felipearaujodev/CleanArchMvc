@@ -12,6 +12,6 @@ namespace CleanArchMvc.WebUI.Models
             "{1} characters long.", MinimumLength = 10)]
         [DataType(DataType.Password)]
         public string Password { get; set; }
-        public string ReturnUrl { get; set; }
+        public string ReturnUrl { get; set; } = "";
     }
 }

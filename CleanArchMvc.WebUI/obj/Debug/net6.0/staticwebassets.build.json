@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J1LcnROfesDjofeEztdIqOI29dxat6cMKNK7F7GYiIg=",
+  "Hash": "pIZl/F4xWvF/WK0kZtKWzT6RLmujsGsqwsvixNeYe+k=",
   "Source": "CleanArchMvc.WebUI",
   "BasePath": "_content/CleanArchMvc.WebUI",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\Cálculo de Contribuições - Guia da Previdência Social_2024_01.pdf",
+      "SourceId": "CleanArchMvc.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\",
+      "BasePath": "_content/CleanArchMvc.WebUI",
+      "RelativePath": "images/Cálculo de Contribuições - Guia da Previdência Social_2024_01.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Cálculo de Contribuições - Guia da Previdência Social_2024_01.pdf"
     },
     {
       "Identity": "C:\\Users\\E470\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\catalog.png",
